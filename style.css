@@ -68,7 +68,6 @@
 /*コンセプト*/
 .concept-wrapper{
     background-image:url(item1.png);
-    color:red;
     opacity: 0.8;
     background-size: cover;
     height:600px;
