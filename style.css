@@ -67,7 +67,8 @@
 
 /*コンセプト*/
 .concept-wrapper{
-    background-image:url(https://github.com/hongyechiyan-bit/portfolio/blob/main/imghaikei.png?raw=true);
+    background-image:url(item1.png);
+    color:red;
     opacity: 0.8;
     background-size: cover;
     height:600px;
